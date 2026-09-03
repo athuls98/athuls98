@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm Athul 👋
 
-<!--
-**athuls98/athuls98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-focused IT professional building hands-on projects around security monitoring, networking, automation, and incident analysis.
 
-Here are some ideas to get you started:
+I like taking security concepts beyond theory and turning them into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Work With
+
+**Security & Detection:** Splunk, Wireshark, Zeek, Suricata, CrowdStrike  
+**Networking:** TCP/IP, VLANs, Routing, NAT, ACLs, DNS, DHCP, OSPF, pfSense  
+**Microsoft Security:** Intune, Entra ID, Microsoft Graph, Active Directory  
+**Scripting & Automation:** Bash, Python  
+**Systems:** Linux, Windows, Windows Server
+
+## 🎓 Certifications
+
+- Cisco CCNA
+- CompTIA Security+
+- CompTIA CySA+
+
+## 🚀 Featured Project
+
+### [Intune Compliance Auditor](https://github.com/athuls98/Bash-Intune-Compliance-Auditor)
+
+A Bash-based auditing tool that authenticates to Microsoft Entra ID and retrieves Intune compliance data through Microsoft Graph.
+It supports multi-device auditing, compliance scoring, stale-device detection, CSV reporting, and API error handling.
+
+**Tech:** Bash, jq, curl, Microsoft Graph, Entra ID, Intune, OAuth 2.0
+
+## 🔍 In the Lab
+
+Currently exploring:
+
+- Network security monitoring
+- Detection engineering
+- Splunk
+- Packet analysis
+- Security automation
+
+## 🎯 Career Focus
+
+SOC Analyst • Security Analyst • Detection & Response • Network Security
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/athul-satheesh/)
