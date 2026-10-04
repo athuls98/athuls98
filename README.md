@@ -18,7 +18,7 @@ I like taking security concepts beyond theory and turning them into working proj
 - CompTIA Security+
 - CompTIA CySA+
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [Intune Compliance Auditor](https://github.com/athuls98/Bash-Intune-Compliance-Auditor)
 
